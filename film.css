@@ -120,247 +120,70 @@ color: #90A4AE;
 bottom: 547px;
 left: 60px;
 }
-.dark1{
-width: 800px;
-height: 650px;
-margin-left: 450px;
-}
-.TelFil{
+.hpng{
     position: absolute;
-width: 370px;
-height: 166px;
-margin-top: 100px;
-font-weight: 400;
-font-size: 35px;
-line-height: 83px;
-color: #FFFFFF;
-bottom: 200px;
+width: 1037px;
+height: 303px;
+top: 100px;
+margin-left: 10%;
+background: url(hi_10364.png);
+border-radius: 40px;
 }
-.sss{
-position: absolute;
-width: 6px;
-height: 144px;
-background: #D9D9D9;
-bottom: 100px;
-margin-left: 2px;
-}
-.nass{
-    position: absolute;
-width: 25px;
-height: 25px;
-bottom: 230px;
-background: #D9D9D9;
-border-radius: 25px;
-left: 1px;
-}
-.nass1{
-    position: absolute;
-width: 25px;
-height: 25px;
-bottom: 163px;
-background: #D9D9D9;
-border-radius: 25px;
-left: 1px;
-}
-.nass2{
-    position: absolute;
-width: 25px;
-height: 25px;
-bottom: 100px;
-background: #D9D9D9;
-border-radius: 25px;
-left: 1px;
-}
-.qq1{
-    color: #FFFFFF;
-    position: absolute;
-    font-size: 18px;
-    width: 200px;
-    height: 30px;
-    bottom: 205px;
-    left: 30px;
-}
-.qq2{
-    color: #FFFFFF;
-    position: absolute;
-    font-size: 18px;
-    width: 200px;
-    height: 30px;
-    bottom: 140px;
-    left: 30px;
-}
-.qq3{
-    color: #FFFFFF;
-    position: absolute;
-    font-size: 18px;
-    width: 200px;
-    height: 30px;
-    bottom: 75px;
-    left: 30px;
-}
-.ww1{
-    position: absolute;
-width: 457px;
-height: 150px;
-
-font-family: 'Gidugu';
-font-style: normal;
-font-weight: 400;
-font-size: 36px;
-line-height: 67px;
-margin-bottom: 20px;
-color: #FFFFFF;
-bottom: 20px;
-top: 600px;
-}
-.ee1{
-bottom: 10px;
+.bit1{
+margin-top: 120px;
 position: absolute;
 }
-.ee2{
+.bit2{
+margin-top: 120px;
 position: absolute;
-bottom: 10px;
-margin-left: 300px;
+margin-left: 90%;
 }
-.ee3{
+.bit3{
+margin-top: 620px;
 position: absolute;
-bottom: 10px;
-margin-left: 200px;
 }
-.ee4{
+.bit4{
 position: absolute;
+margin-left: 90%;
+top: 620px;
+}
+.rom1{
+margin-top: 480px;
 margin-left: 100px;
-bottom: 10px;
 }
-.ee{
-    margin: 10px;
-}
-.buyy1{
-position: absolute;
-width: 356px;
-height: 114px;
-background: #6EF0D9;
-border-radius: 30px;
-color: white;
-border: none;
-top: 770px;
-font-size: 40px;
-margin-left: 20px;
-}
-.present{
-    top: 770px;
-    margin-right: 97%;
+.rom2{
+    margin-top: 480px;
+    margin-left: 150px;
     position: absolute;
 }
-.canll{
+.rom3{
+    margin-top: 480px;
+    margin-left: 42%;
     position: absolute;
-width: 600px;
-height: 119px;
-top: 890px;
-font-family: 'Gidugu';
-font-style: normal;
-font-weight: 400;
-font-size: 64px;
-line-height: 119px;
-/* identical to box height */
-
-
-color: #FFFFFF;
 }
-.recm{
-    margin-top: 300px;
-    margin-left: 650px;
-}
-.r1{
+.bit5{
+    margin-top: 1100px;
     position: absolute;
-width: 398px;
-height: 49px;
-top: 1100px;
-font-family: 'Gidugu';
-font-style: normal;
-font-weight: 400;
-font-size: 24px;
-line-height: 44px;
-color: #3B3434;
 }
-.r2{
+.bit6{
     position: absolute;
-width: 498px;
-height: 34px;
-top: 1150px;
-font-family: 'Gidugu';
-font-style: normal;
-font-weight: 400;
-font-size: 36px;
-line-height: 67px;
-
-color: #FFFFFF;
+    margin-left: 90%;
+    top: 1180px;
 }
-.r3{
-  
-position: absolute;
-width: 469px;
-height: 94px;
-top: 1200px;
-font-family: 'Gidugu';
-font-style: normal;
-font-weight: 400;
-font-size: 24px;
-line-height: 44px;
-
-color: #3B3434;
+.kino1{
+    margin-top:80px;
+    margin-left: 100px;
+   
 }
-.r4{
+.kino2{
+    margin-top: 80px;
+    margin-left: 150px;
     position: absolute;
-width: 498px;
-height: 72px;
-top: 1300px;
-font-family: 'Gidugu';
-font-style: normal;
-font-weight: 400;
-font-size: 36px;
-line-height: 67px;
-
-color: #FFFFFF;
 }
-.r5{
+.kino3{
+    margin-top: 80px;
+    margin-left: 42%;
     position: absolute;
-width: 442px;
-height: 96px;
-top: 1350px;
-font-family: 'Gidugu';
-font-style: normal;
-font-weight: 400;
-font-size: 24px;
-line-height: 44px;
-
-color: #3B3434;
-}
-.r6{
-    position: absolute;
-width: 568px;
-height: 78px;
-top: 1450px;
-font-family: 'Gidugu';
-font-style: normal;
-font-weight: 400;
-font-size: 36px;
-line-height: 67px;
-
-color: #FFFFFF;
-}
-.r7{
-    position: absolute;
-width: 586px;
-height: 136px;
-top: 1500px;
-font-family: 'Gidugu';
-font-style: normal;
-font-weight: 400;
-font-size: 24px;
-line-height: 44px;
-
-color: #3B3434;
 }
 .a1{
     position: absolute;

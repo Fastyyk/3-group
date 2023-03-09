@@ -1,0 +1,122 @@
+.header{
+    width: 1362px;
+    height: 66px;
+    background: linear-gradient(90deg, rgba(6,82,108,1) 37%, rgba(6,82,108,1) 68%);
+
+}
+
+.logo{
+    position: absolute;
+    font-size: x-large;
+    margin-left: 200px;
+    margin-top: 5px;
+    font-family: system-ui;
+
+    border-radius: 15px;
+}
+body{
+    background: #0F485A;
+}
+.ua_tb{
+    position: absolute;
+    font-size: x-large;
+    margin-left: 300px;
+    margin-top: 5px;
+    font-family: system-ui;
+}
+.tb{
+    position: absolute;
+    font-size: x-large;
+    margin-left: 400px;
+    margin-top: 5px;
+    font-family: system-ui;
+}
+
+.films{
+    position: absolute;
+    font-size: x-large;
+    margin-left: 450px;
+    margin-top: 5px;
+    font-family: system-ui;
+}
+.mult{
+    position: absolute;
+    font-size: x-large;
+    margin-left: 550px;
+    margin-top: 5px;
+    font-family: system-ui;
+}
+
+.serials{
+    position: absolute;
+    font-size: x-large;
+    margin-left: 670px;
+    margin-top: 5px;
+    font-family: system-ui;
+}
+
+.body{
+    height: 1311px;
+    width: 1362px;
+    background: linear-gradient(90deg, rgba(117,203,255,1) 37%, rgba(95,123,128,1) 86%, rgba(87,93,81,1) 100%);
+}
+
+.menu{
+    position: absolute;
+    font-size: x-large;
+    font-family: system-ui;
+    margin-left: 300px;
+}
+.one{
+    position: absolute;
+    margin-left: 800px;
+    margin-top: 5px;
+}
+.two{
+    position: absolute;
+    margin-left: 800px;
+    margin-top: 20px;
+}
+.three{
+    position: absolute;
+    margin-left: 800px;
+    margin-top: 35px;
+}
+.reg{
+    position: absolute;
+    background-color: aqua;
+    border-radius: 10px;
+    font-size: x-large;
+    border: none;
+    font-family: system-ui;
+    cursor: pointer;
+    margin-left: 950px;
+    margin-top: 5px;
+}
+.logotip{
+    position: absolute;
+    bottom: 89%;
+    right: 95.7%;
+}
+.BicLogo{
+    position: absolute;
+    width: 178px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 25px;
+    bottom: 89.9%;
+}
+.uatvlogo{
+    position: absolute;
+width: 105px;
+height: 82px;
+left: 40px;
+font-family: 'Gidugu';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 119px;
+color: #90A4AE;
+bottom: 547px;
+left: 60px;
+}
